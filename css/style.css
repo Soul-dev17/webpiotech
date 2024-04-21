@@ -497,6 +497,8 @@
 }
 
 .logo-image {
-    vertical-align: middle;
+    width: 50px;
+    height: auto;
     margin-right: 10px;
-}
+  }
+  
